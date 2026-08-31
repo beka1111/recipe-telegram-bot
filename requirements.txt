@@ -1,4 +1,0 @@
-aiogram
-trafilatura
-requests
-beautifulsoup4
