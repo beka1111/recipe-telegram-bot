@@ -1,0 +1,3 @@
+aiogram
+trafilatura
+requests
